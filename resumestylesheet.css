@@ -1,0 +1,12 @@
+
+body {background-color: #ffff99;
+		font-style: arial;
+		border: 10px solid blue}
+h1 {font-size: 30px;}
+h2 {color: blue}		
+.list {padding: 30px;
+	font-style: italic;
+		font-size: 24px;
+		font-family: arial;
+		color: black;
+		background-color: orange;}
