@@ -10,3 +10,5 @@ h2 {color: blue}
 		font-family: arial;
 		color: black;
 		background-color: orange;}
+a:hover {color: red;}
+b {color: blue; font-size: 25px;}
