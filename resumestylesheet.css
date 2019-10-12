@@ -1,14 +1,17 @@
 
-body {background-color: #ffff99;
+body {background-image: url(backgroundpicgrey.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 		font-style: arial;
 		border: 10px solid blue}
 h1 {font-size: 30px;}
 h2 {color: blue}		
-.list {padding: 30px;
+.list {padding: 40px;
 	font-style: italic;
 		font-size: 24px;
 		font-family: arial;
 		color: black;
-		background-color: orange;}
+		background-color: lightgreen;}
 a:hover {color: red;}
 b {color: blue; font-size: 25px;}
+
